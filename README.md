@@ -5,4 +5,4 @@
 
 - 🔭 I’m currently working on backend
 - 🌱 I’m currently learning LLM
-- 📫 How to reach me:(掘金) [https://juejin.cn/user/3984285871387582/posts](https://juejin.cn/user/3342976057353992/posts)https://juejin.cn/user/3342976057353992/posts
+- 📫 How to reach me:(掘金) (https://juejin.cn/user/3342976057353992/posts)https://juejin.cn/user/3342976057353992/posts
